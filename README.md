@@ -7,3 +7,5 @@ This is some **bold** text
 _italictext_
 
 Add some more stuff
+
+This is a conflicting change.
